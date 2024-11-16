@@ -1,6 +1,6 @@
 ---
-title: "Why Cybersecurity Matters More Than Ever"
-date: 2024-11-16
+Title: "Why Cybersecurity Matters More Than Ever"
+Date: 2024-11-16
 ---
 
 In our increasingly digital world, cybersecurity has become essential. From personal data breaches to global cyberattacks, the risks are everywhere.
